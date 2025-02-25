@@ -5,7 +5,7 @@ Queries used for Tableau Project
 
 */
 
-
+[Tableau Visualisation](https://public.tableau.com/app/profile/kritika.sharma1054/viz/Project-CovidDashboard_17400355570690/Dashboard1?publish=yes)
 
 -- 1. 
 
